@@ -2,7 +2,7 @@
   "version": "1.3.0",
   "datum": "2026-10-01",
   "datei": "Daytrading-Assistent.exe",
-  "sha256": "e66d8711297887b5a83b21598a492d164df936be33e9a2f7eafedc1ffd82959a",
-  "groesse": 10956713,
+  "sha256": "80902173d1b4110df3c8b5b1b95e2dd77d3cd75b76789833b0483e7d200d627d",
+  "groesse": 10957088,
   "notizen": "Automatische Updates eingebaut. Neu: Henrys FVG-Strategie, Zeitregeln (kein Wochenende, 8–23 Uhr), Reiter Daily Bias, Chart-Hilfen (FVG, Sessions, Golden Pocket), Backtest mit beiden Strategien."
 }
